@@ -1,0 +1,9 @@
+fr\univtours\polytech\tp_note_1\controlleur\FillDbServlet.class
+fr\univtours\polytech\tp_note_1\controlleur\EmprunterServlet.class
+fr\univtours\polytech\tp_note_1\model\BookBean.class
+fr\univtours\polytech\tp_note_1\JakartaRestConfiguration.class
+fr\univtours\polytech\tp_note_1\business\LivreBusinessImpl.class
+fr\univtours\polytech\tp_note_1\dao\EmprunterDAOImpl.class
+fr\univtours\polytech\tp_note_1\resources\JakartaEE10Resource.class
+fr\univtours\polytech\tp_note_1\business\LivreBusiness.class
+fr\univtours\polytech\tp_note_1\dao\EmprunterDAO.class

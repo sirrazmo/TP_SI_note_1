@@ -1,3 +1,3 @@
 # TP_SI_note_1
-Biranger Mathieur 
+Biranger Mathieu
 Mennerun Noé
